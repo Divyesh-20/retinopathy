@@ -1,0 +1,28 @@
+# Ignore virtual environments
+dr-env/
+venv/
+.env/
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Compiled libraries
+*.so
+*.dll
+
+# Logs and temp files
+*.log
+*.tmp
+
+# VSCode settings (optional)
+.vscode/
+
+# Environment and dependency files
+*.egg-info/
+*.bak
